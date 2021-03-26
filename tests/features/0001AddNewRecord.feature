@@ -10,4 +10,3 @@ Feature Add new record
    Examples:
    |value|
    |abc|
-
